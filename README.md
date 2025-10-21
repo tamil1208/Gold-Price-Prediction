@@ -1,4 +1,4 @@
-# # 💰 Gold Price Prediction using Machine Learning 💎
+ # 💰 Gold Price Prediction using Machine Learning 💎
 📘 Project Overview
 
 This project focuses on predicting future gold prices using machine learning techniques. It analyzes historical gold price data and market indicators such as inflation rate, USD value, stock index, and interest rates to build a reliable predictive model. 📈
