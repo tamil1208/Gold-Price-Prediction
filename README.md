@@ -1,13 +1,12 @@
- # 💰 Gold Price Prediction using Machine Learning 💎
-📘 Project Overview
+## 💰 Gold Price Prediction using Machine Learning 💎
+# 📘 Project Overview
 
 This project focuses on predicting future gold prices using machine learning techniques. It analyzes historical gold price data and market indicators such as inflation rate, USD value, stock index, and interest rates to build a reliable predictive model. 📈
-
-🎯 Objective
+# 🎯 Objective
 
 To create a data-driven system that accurately forecasts gold prices and helps investors make informed financial decisions.
 
-⚙️ Key Features
+# ⚙️ Key Features
 
 📊 Data preprocessing and cleaning
 
@@ -21,7 +20,7 @@ To create a data-driven system that accurately forecasts gold prices and helps i
 
 🧩 Tech Stack
 
-Python 🐍
+# Python 🐍
 
 Pandas, NumPy – Data handling
 
@@ -29,7 +28,7 @@ Matplotlib, Seaborn – Data visualization
 
 Scikit-learn – Machine learning modeling
 
-📂 Dataset
+# 📂 Dataset
 
 The dataset contains:
 
@@ -47,7 +46,7 @@ Inflation Rate
 
 You can download or collect data from sources like Kaggle or Yahoo Finance. 📑
 
-🚀 Steps Involved
+# 🚀 Steps Involved
 
 Load and clean the dataset
 
@@ -61,11 +60,11 @@ Evaluate model performance
 
 Predict future gold prices
 
-📊 Result
+# 📊 Result
 
 The model provides accurate gold price predictions with visual trend insights, helping users understand market movement and make better investment choices. 💹✨
 
-🧠 Future Enhancements
+# 🧠 Future Enhancements
 
 Integrate with live gold price APIs for real-time prediction
 
@@ -73,7 +72,7 @@ Build a web dashboard using Streamlit or Flask
 
 Add deep learning models (LSTM) for time series forecasting
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Tamilarasan
 📧 tamilarsan538@gmail.com
